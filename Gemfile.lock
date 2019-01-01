@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    asdblock (0.0.1)
+      netaddr (~> 1.5, >= 1.5.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    netaddr (1.5.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  asdblock!
+
+BUNDLED WITH
+   1.17.3
