@@ -15,5 +15,5 @@ Gem::Specification.new {|s|
   s.files       = Dir['lib/**/*.rb']
   s.executables = ['asdblock']
 
-  s.add_dependency 'netaddr', '~> 1.5', '>= 1.5.1'
+  s.add_dependency 'netaddr', '~> 2.0', '>= 2.0.4'
 }
